@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.anu{
+  
+  justify-content: flex-start;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  height: 400px;
+  width: 400px;
+  
+
+  
+
+}
